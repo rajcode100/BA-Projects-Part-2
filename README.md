@@ -17,7 +17,6 @@
 
 ## 📄 File Includes
 
-- Power BI dashboard with clean visual design
 - Sales data modeling & filtering
 - Drill-downs by outlet, item type, and tier
 - Customer ratings & product metrics
@@ -26,7 +25,20 @@
 
 - Top-performing outlets by tier & size
 - Best-selling item categories (Snacks, Fruits, etc.)
-- Regular fat items outsell low-fat variants
 - Tier 3 & medium-sized outlets drive most sales
+
+
+
+# 📘 Power SQL PROJECT 3: Library Management System
+
+## 📄 File Includes
+
+- SQL tables for books, members, employees, issuance & returns
+- Structured database schema with foreign key relationships
+
+## 🔍 Key Insights
+
+- Employees issuing multiple books identified for performance tracking
+- Rental income analyzed by book category for revenue insights
 
 
