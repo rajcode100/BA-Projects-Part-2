@@ -29,7 +29,7 @@
 
 
 
-# 📘 Power SQL PROJECT 3: Library Management System
+# 📘 SQL PROJECT 3: Library Management System
 
 ## 📄 File Includes
 
