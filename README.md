@@ -6,6 +6,8 @@
 
 # 📘 Process Flow Diagram PROJECT 4: Coffee Shop Setup
 
+# 📘 Process Flow Diagram PROJECT 5: Purchase Process
+
 ## 🧠 Tools Used
 
 - SQL • Power BI • Figma
