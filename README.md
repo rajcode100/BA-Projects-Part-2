@@ -5,3 +5,7 @@
 # 📘 SQL PROJECT 3: Library Management System
 
 # 📘 Process Flow Diagram PROJECT 4: Coffee Shop Setup
+
+## 🧠 Tools Used
+
+- SQL • Power BI • Figma
